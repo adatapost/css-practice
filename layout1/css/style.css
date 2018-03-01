@@ -1,7 +1,11 @@
+/*div {
+	border:1px solid black;
+}*/
 .container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 }
+
 .main-container {
 	width: 90%;
 }
@@ -100,6 +104,8 @@ ul {
 	background-size: 50px 50px;
 }
 
+
+
 .menulist {
 	height: 300px;
 	width: 300px;
@@ -131,4 +137,5 @@ li a:hover {
  h1 {
  	text-align: center;
  	color: #ff6600;
+
  }
